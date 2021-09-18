@@ -1,1 +1,2 @@
-
+ID System: HourMinuteDayMonthYearNumber, bsp: 04:00 10.12.2014, first item: 04001012201301
+Data structure: ID,EventType,Name,Description,Value
